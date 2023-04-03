@@ -1,0 +1,1 @@
+python evaluate.py groundtruth.csv results.csv > output.txt
