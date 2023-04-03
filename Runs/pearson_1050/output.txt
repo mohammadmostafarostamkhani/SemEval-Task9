@@ -1,0 +1,15 @@
+groundtruth.csv results.csv
+prediction data format correct!
+English nan
+Spanish nan
+Portuguese nan
+Italian nan
+French nan
+Chinese nan
+Hindi nan
+Dutch nan
+Korean nan
+Arabic nan
+Overall nan
+seen_languages nan
+unseen_languages nan
